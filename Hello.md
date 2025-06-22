@@ -11,4 +11,4 @@ I'm an early-career data analyst passionate about using SQL and data storytellin
 **Date:** June 2025  
 Analyzed Intel’s public ESG data to evaluate long-term sustainability trends. Used SQL to extract and clean data on emissions, energy usage, and water consumption. Identified insights related to Intel’s progress toward carbon neutrality.
 
-[View Project Files](./Intel-Sustainability-Project)
+[View Project Files](README.md)
